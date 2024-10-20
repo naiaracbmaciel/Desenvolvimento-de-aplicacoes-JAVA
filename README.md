@@ -1,11 +1,13 @@
 # primeirospassos
-Este repo é a minha primeira fase estudando e experimentando a vida dev. 
+Repositório dedicado ao arquivamento de atividades do curso de desenvolvimento de aplicações em java. 
 <br>
-Curso: Desenvolvimento de aplicações web
+Curso: Desenvolvimento de aplicações
 <br>
 Linguagem: Java
 <br>
-Professor: Wagner
+Professor: Wagner Tironi
+<br>
+Turma: TCTG241CNTDEV
 <br>
 <br>
 Link do drive onde está os exercícios que devemos entregar até o fim do curso:
